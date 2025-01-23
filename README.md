@@ -1,6 +1,5 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-# VerizonTracker Workflow
 
 ## Initial Setup
 
